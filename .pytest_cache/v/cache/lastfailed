@@ -1,0 +1,11 @@
+{
+  "test.py": true,
+  "test_runner.py::test_evenly_divisible": true,
+  "test_runner.py::test_find_evenly_divisible": true,
+  "test_runner.py::test_find_pal": true,
+  "test_runner.py::test_numbers_3_4": true,
+  "test_runner.py::test_strings_a_3": true,
+  "test_sample.py::test_strings_a_3": true,
+  "test_um_pytest.py": true,
+  "test_um_pytest.py::test_strings_a_3": true
+}

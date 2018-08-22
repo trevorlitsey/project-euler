@@ -1,0 +1,4 @@
+[
+  "test_runner.py::test_is_evenly_divisible",
+  "test_runner.py::test_find_evenly_divisible"
+]
